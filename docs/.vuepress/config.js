@@ -1,4 +1,5 @@
 const { copyCode } = require("vuepress-plugin-copy-code2");
+const path = require('path');
 
 module.exports = {
   // 站点配置
@@ -7,6 +8,7 @@ module.exports = {
   head: [["link", { rel: "icon", href: "/imgs/favicon.ico" }]],
   title: "webpack5",
   description: "webpack5笔记",
+  dest: path.resolve(__dirname, '../dist'),
   // 主题和它的配置
   theme: "@vuepress/theme-default",
   themeConfig: {

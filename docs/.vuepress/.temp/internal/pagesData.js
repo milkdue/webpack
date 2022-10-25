@@ -1,14 +1,6 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Volumes/NO NAME/typescript/尚硅谷Webpack5从入门到原理/【樱花论坛 www.sakuraaaa.com】课件/课件/webpack_docs/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /origin/
-  "v-2259a8b0": () => import(/* webpackChunkName: "v-2259a8b0" */"/Volumes/NO NAME/typescript/尚硅谷Webpack5从入门到原理/【樱花论坛 www.sakuraaaa.com】课件/课件/webpack_docs/docs/.vuepress/.temp/pages/origin/index.html.js").then(({ data }) => data),
-  // path: /origin/loader.html
-  "v-1cfd2df6": () => import(/* webpackChunkName: "v-1cfd2df6" */"/Volumes/NO NAME/typescript/尚硅谷Webpack5从入门到原理/【樱花论坛 www.sakuraaaa.com】课件/课件/webpack_docs/docs/.vuepress/.temp/pages/origin/loader.html.js").then(({ data }) => data),
-  // path: /origin/plugin.html
-  "v-2d7562d6": () => import(/* webpackChunkName: "v-2d7562d6" */"/Volumes/NO NAME/typescript/尚硅谷Webpack5从入门到原理/【樱花论坛 www.sakuraaaa.com】课件/课件/webpack_docs/docs/.vuepress/.temp/pages/origin/plugin.html.js").then(({ data }) => data),
-  // path: /origin/summary.html
-  "v-860cdcba": () => import(/* webpackChunkName: "v-860cdcba" */"/Volumes/NO NAME/typescript/尚硅谷Webpack5从入门到原理/【樱花论坛 www.sakuraaaa.com】课件/课件/webpack_docs/docs/.vuepress/.temp/pages/origin/summary.html.js").then(({ data }) => data),
   // path: /base/
   "v-1455d425": () => import(/* webpackChunkName: "v-1455d425" */"/Volumes/NO NAME/typescript/尚硅谷Webpack5从入门到原理/【樱花论坛 www.sakuraaaa.com】课件/课件/webpack_docs/docs/.vuepress/.temp/pages/base/index.html.js").then(({ data }) => data),
   // path: /base/base.html
@@ -43,6 +35,14 @@ export const pagesData = {
   "v-5e3bb631": () => import(/* webpackChunkName: "v-5e3bb631" */"/Volumes/NO NAME/typescript/尚硅谷Webpack5从入门到原理/【樱花论坛 www.sakuraaaa.com】课件/课件/webpack_docs/docs/.vuepress/.temp/pages/base/server.html.js").then(({ data }) => data),
   // path: /base/summary.html
   "v-ce2194d0": () => import(/* webpackChunkName: "v-ce2194d0" */"/Volumes/NO NAME/typescript/尚硅谷Webpack5从入门到原理/【樱花论坛 www.sakuraaaa.com】课件/课件/webpack_docs/docs/.vuepress/.temp/pages/base/summary.html.js").then(({ data }) => data),
+  // path: /origin/
+  "v-2259a8b0": () => import(/* webpackChunkName: "v-2259a8b0" */"/Volumes/NO NAME/typescript/尚硅谷Webpack5从入门到原理/【樱花论坛 www.sakuraaaa.com】课件/课件/webpack_docs/docs/.vuepress/.temp/pages/origin/index.html.js").then(({ data }) => data),
+  // path: /origin/loader.html
+  "v-1cfd2df6": () => import(/* webpackChunkName: "v-1cfd2df6" */"/Volumes/NO NAME/typescript/尚硅谷Webpack5从入门到原理/【樱花论坛 www.sakuraaaa.com】课件/课件/webpack_docs/docs/.vuepress/.temp/pages/origin/loader.html.js").then(({ data }) => data),
+  // path: /origin/plugin.html
+  "v-2d7562d6": () => import(/* webpackChunkName: "v-2d7562d6" */"/Volumes/NO NAME/typescript/尚硅谷Webpack5从入门到原理/【樱花论坛 www.sakuraaaa.com】课件/课件/webpack_docs/docs/.vuepress/.temp/pages/origin/plugin.html.js").then(({ data }) => data),
+  // path: /origin/summary.html
+  "v-860cdcba": () => import(/* webpackChunkName: "v-860cdcba" */"/Volumes/NO NAME/typescript/尚硅谷Webpack5从入门到原理/【樱花论坛 www.sakuraaaa.com】课件/课件/webpack_docs/docs/.vuepress/.temp/pages/origin/summary.html.js").then(({ data }) => data),
   // path: /senior/
   "v-3fe9ea34": () => import(/* webpackChunkName: "v-3fe9ea34" */"/Volumes/NO NAME/typescript/尚硅谷Webpack5从入门到原理/【樱花论坛 www.sakuraaaa.com】课件/课件/webpack_docs/docs/.vuepress/.temp/pages/senior/index.html.js").then(({ data }) => data),
   // path: /senior/enhanceExperience.html
